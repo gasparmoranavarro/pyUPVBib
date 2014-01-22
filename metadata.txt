@@ -29,7 +29,7 @@ email=topodelprop@gmail.com
 tags=library, postgis, python
 
 homepage=http://personales.upv.es/joamona/pyUPVBib/index.html
-tracker=
+tracker=https://github.com/gasparmoranavarro/pyUPVBib/issues
 repository=https://github.com/gasparmoranavarro/pyUPVBib
 icon=icon.png
 # experimental flag
