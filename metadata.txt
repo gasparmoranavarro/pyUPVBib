@@ -28,9 +28,9 @@ email=topodelprop@gmail.com
 # tags are comma separated with spaces allowed
 tags=library, postgis, python
 
-homepage=
+homepage=http://personales.upv.es/joamona/pyUPVBib/index.html
 tracker=
-repository=
+repository=https://github.com/gasparmoranavarro/pyUPVBib
 icon=icon.png
 # experimental flag
 experimental=False
